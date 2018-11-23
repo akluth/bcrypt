@@ -1,0 +1,9 @@
+[package]
+name = "bcrypt"
+version = "0.1.0"
+authors = ["Alexander Kluth <deralex@cpan.org>"]
+edition = "2018"
+
+[dependencies]
+bcrypt = "0.2.1"
+clap = "2.32.0"
