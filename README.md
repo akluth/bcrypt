@@ -1,7 +1,7 @@
 ## bcrypt
 
 bcrypt is a small commandline utility for creating [bcrypt](https://en.wikipedia.org/wiki/Bcrypt)
-hashes. It is built around the [bcrypt](https://crates.io/crates/bcrypt) create and written in Rust.
+hashes. It is built around the [bcrypt](https://crates.io/crates/bcrypt) crate and written in Rust.
 
 ### Usage
 
