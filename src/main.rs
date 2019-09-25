@@ -6,8 +6,8 @@ use bcrypt::{DEFAULT_COST, hash};
 
 fn main() {
     let matches = App::new("bcrypt")
-                          .version("0.1")
-                          .author("Alexander Kluth <deralex@cpan.org>")
+                          .version("0.1.0")
+                          .author("Alexander Kluth <alex@clooze.io>")
                           .about("Create bcrypt hash from input string")
                           .arg(Arg::with_name("STRING")
                                .help("String to hash")
