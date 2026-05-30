@@ -2,8 +2,9 @@
 name = "bcrypt"
 version = "0.1.0"
 authors = ["Alexander Kluth <deralex@cpan.org>"]
-edition = "2018"
+edition = "2024"
+rust-version = "1.96"
 
 [dependencies]
-bcrypt = "0.2.1"
-clap = "2.32.0"
+bcrypt = "0.19.1"
+clap = "4.6.1"
